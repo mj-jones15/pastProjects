@@ -1,2 +1,2 @@
 # pastProjects
-Repository for all published past projects
+Repository for all of my published past projects.
